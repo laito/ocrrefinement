@@ -1,0 +1,13 @@
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\OCRRefinement.exe
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\OCRRefinement.pdb
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\ZedGraph.dll
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\Emgu.CV.xml
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\Emgu.Util.xml
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\bin\Debug\Magick.NET-x86.xml
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.Form1.resources
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.Properties.Resources.resources
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.exe
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.pdb
+c:\users\root\documents\visual studio 2010\Projects\OCRRefinement\OCRRefinement\obj\x86\Debug\OCRRefinement.OCRForm.resources

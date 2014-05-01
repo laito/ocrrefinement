@@ -1,0 +1,1 @@
+OCR Engine Refinement for graded marksheet verification using EmguCV (C# wrapper for OpenCV)
